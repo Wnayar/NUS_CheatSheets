@@ -1,5 +1,7 @@
 # CS3219 Cheat Sheet
 
+Made by me and my friend Darren.
+
 PDF: [CS3219_cheatsheet.pdf](CS3219_cheatsheet.pdf)
 
 ## Edit your own copy
